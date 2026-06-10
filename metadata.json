@@ -1,0 +1,6 @@
+{
+  "name": "Co-op Quest Diary",
+  "description": "Gamified diary for co-op and internship students to log daily work as quests, level up, track skills via interactive radar chart, and export structured reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
